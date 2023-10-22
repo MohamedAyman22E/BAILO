@@ -678,7 +678,15 @@ nav.active .menu-btn {
     font-size: 30px;
   }
 }
-@media (max-width: 430px) {
+@media (max-width: 590px) {
+  .home-section .full-screen .home-img .img-box {
+    padding: 0 40px;
+  }
+}
+@media (max-width: 440px) {
+  .effect-3 {
+    top: 15%;
+  }
   .end {
     height: 600px;
   }
